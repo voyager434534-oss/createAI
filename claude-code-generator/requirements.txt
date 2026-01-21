@@ -1,0 +1,15 @@
+# GUI 框架
+customtkinter>=5.2.0
+
+# Claude API
+anthropic>=0.40.0
+
+# Windows 安全
+pywin32>=306
+
+# 代码处理
+pygments>=2.18.0
+
+# 工具库
+python-dotenv>=1.0.0
+pyperclip>=1.8.2
